@@ -87,7 +87,7 @@ src/
 └── App.tsx                      # Root component
 ```
 
-## How It Works
+## How It Works -
 
 1. **Initial Load** — Static grocery items load from `data/initialItems.ts` into global context
 2. **Item Selection** — Users click items to add to cart; quantity adjustable per item
